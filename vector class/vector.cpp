@@ -82,11 +82,11 @@ int main()
 	{
 		if (*ptr > 0)
 		{
-			cout << "cnjvjbvjbvjhb\n";
+			cout << "Enter Num: \n";
 		}
 		else
 		{
-			cout << "vnjnvjfnb 0\n";
+			cout << "False 0\n";
 		}
 	}
 
@@ -94,11 +94,11 @@ int main()
 	{
 		if (*ptr < 2)
 		{
-			cout << "cnjvjbvjbvjhb\n";
+			cout << "Enter Num: \n";
 		}
 		else
 		{
-			cout << "vnjnvjfnb 0\n";
+			cout << "False 0\n";
 		}
 	}
 	cout << endl;
